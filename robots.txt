@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kerstiou.github.io/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/app/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/assets/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/css/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/includes/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/item/sitemap.html.gz
+Sitemap: https://kerstiou.github.io/src/sitemap.html.gz
